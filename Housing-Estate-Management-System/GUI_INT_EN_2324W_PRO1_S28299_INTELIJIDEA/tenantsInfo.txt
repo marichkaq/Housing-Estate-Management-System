@@ -1,0 +1,5 @@
+Tenant: John Smith id: 12345 address: 123 Main Street
+current apartments: 1 volume:72.0 
+5 volume:140.0 
+6 volume:81.0 
+7 volume:121.875 
